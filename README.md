@@ -17,6 +17,9 @@ First attempt was messy with typos like "ginge" instead of "ginger" 😂
 Fixed capitalization and spacing issues  
 Seeing it render properly in Preview felt like a real win.
 
+## Screenshot 
+![Sommy's magic recipe Day 6](Screenshot_20260616_171541_Samsung%20Internet.jpg)
+
 **Progress > perfection. One step closer.**
 
 #30DaysOfCode #freeCodeCamp #LearningInPublic  
